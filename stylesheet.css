@@ -1,0 +1,72 @@
+body{
+margin-top:50px;
+margin-bottom:100px;
+margin-right:100px;
+margin-left:75px;
+font-family:"Calibri","Verdana","Arial";
+}
+
+p{
+font-family:"Calibri","Verdana","Arial";
+}
+
+h1{
+font-family:"Calibri","Verdana","Arial";
+}
+
+
+h2{
+font-family:"Calibri","Verdana","Arial";
+}
+
+h3{
+font-family:"Calibri","Verdana","Arial";
+}
+
+ul{
+font-family:"Calibri","Verdana","Arial";
+}
+
+.ex{
+font-family:"Calibri","Verdana","Arial";
+background-color: #EDC9AF;
+padding: 5px;
+}
+
+.next{
+font-family:"Calibri","Verdana","Arial";
+font-size: 15pt;
+background-color: #F0F8FF;
+padding: 5px;
+text-align: center;
+width: 30%;
+}
+
+a:link {
+color: #c00;
+text-decoration: none;
+}   
+     
+a:visited {
+color: #c00;
+text-decoration: underline;
+}
+
+a:hover {
+color: #00c;
+text-decoration: none;  
+border-bottom: 1px dashed; 
+display: inline
+}
+
+a:active {
+color: #ccc;
+text-decoration: none;
+border-bottom: 1px dotted; 
+}
+
+hr.ex1 {
+border: 1;
+height: 1px;
+color: #FF0000;
+}
